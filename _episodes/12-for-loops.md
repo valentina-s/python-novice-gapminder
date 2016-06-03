@@ -17,7 +17,7 @@ FIXME: lesson content.
 > ## Iterating through lists
 > Suppose we are given a long list of items and we would like to look at its content item by item. We can certainly do this by displaying each item:
 objectives
-
+>
 > ~~~
 > print(objectives[0])
 > print(objectives[1])
@@ -27,10 +27,11 @@ objectives
 
 > However, if we have a long list we would like to iterate through its elements without writing a print statement for each item.
 > Let's consider the list:
+>
 > ~~~
 > listOfNumbers = [1,2,3,4,5,6,7,8,9,10]
+> ~~~
 > {: .source}
-> ~~~  
 > We can display its items using the following for-loop statement:
 >
 > ~~~
