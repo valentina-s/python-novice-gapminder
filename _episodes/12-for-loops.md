@@ -66,7 +66,7 @@ objectives
 
 > Python has a special built-in function `range` which can easily generate integers. `range` can accept 1-3 parameters. If one parameter is input, range creates an array of that length, starting at zero and incrementing by 1. If 2 parameters are input, range starts at the first and ends just before the second, incrementing by one. If range is passed with 3 parameters, it starts at the first one, ends just before the second one, and increments by the third one.
 
-> Execute the following commands to understand the behavior of the `range` function.
+> Execute the following commands to understand the behavior of the `range` function:
 >
 > ~~~
 > for i in range(3):
@@ -80,7 +80,7 @@ objectives
 > ~~~
 >
 > {:.source}
->
+
 > Write a for loop which:
 > 1) creates a list of the squares of the even integers from 1 to 100,
 > 2) calculates the sum of the squares of the even integers from 1 to 100.
