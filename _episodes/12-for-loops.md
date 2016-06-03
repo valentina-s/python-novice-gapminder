@@ -84,7 +84,7 @@ objectives
 > Write a for loop which:
 > 1) creates a list of the squares of the even integers from 1 to 100,
 > 2) calculates the sum of the squares of the even integers from 1 to 100.
-{:.challenge}
+{: .challenge}
 
 > ## TODO
 > * create a list .append()
