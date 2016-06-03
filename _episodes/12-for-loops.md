@@ -24,7 +24,7 @@ objectives
 > print(objectives[2])
 > ~~~
 > {: .source}
-
+>
 > However, if we have a long list we would like to iterate through its elements without writing a print statement for each item.
 > Let's consider the list:
 >
@@ -32,7 +32,7 @@ objectives
 > listOfNumbers = [1,2,3,4,5,6,7,8,9,10]
 > ~~~
 > {: .source}
-
+>
 > We can display its items using the following for-loop statement:
 >
 > ~~~
@@ -44,7 +44,6 @@ objectives
 > In this case `listOfItems` is a list of integers. But the one can write a for-loop
 > for any list.
 >
-
 > Create a for loop which prints the elements of the list `objectives`.
 {: .challenge}
 
