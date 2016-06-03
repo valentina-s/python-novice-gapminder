@@ -43,7 +43,7 @@ objectives
 >
 > In this case `listOfItems` is a list of integers. But the one can write a for-loop
 > for any list.
->
+
 > Create a for loop which prints the elements of the list `objectives`.
 {: .challenge}
 
