@@ -32,6 +32,7 @@ objectives
 > listOfNumbers = [1,2,3,4,5,6,7,8,9,10]
 > ~~~
 > {: .source}
+
 > We can display its items using the following for-loop statement:
 >
 > ~~~
@@ -40,9 +41,10 @@ objectives
 > ~~~
 > {:.source}
 >
-> In this case listOfItems is a list of integers. But the one can write a for-loop
+> In this case `listOfItems` is a list of integers. But the one can write a for-loop
 > for any list.
 >
+
 > Create a for loop which prints the elements of the list `objectives`.
 {: .challenge}
 
@@ -51,9 +53,9 @@ objectives
 > ~~~
 >
 > for
->
-> {:.source}
 > ~~~
+> {:.source}
+
 
 
 > An alternative way of displaying the elements is to use the index of the list.
@@ -83,7 +85,7 @@ objectives
 > Write a for loop which:
 > 1) creates a list of the squares of the even integers from 1 to 100,
 > 2) calculates the sum of the squares of the even integers from 1 to 100.
-> {:.challenge}
+{:.challenge}
 
 > ## TODO
 > * create a list .append()
